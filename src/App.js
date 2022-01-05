@@ -9,7 +9,7 @@ const Button = ({text,handleClick}) => {
 // Statistics Heading Component. Displays correct heading based on if feedback has been recieved yet. 
 const StatisticsHeading =  ({length}) => {
   if(length > 0){
-    return(<h2>statistics</h2>)
+    return(<h2>statistics:</h2>)
   }
   else {
     return(
