@@ -11,5 +11,5 @@ Short overview of Steps:
 -1.10: Extract a component for Button & StatisticLine. StatisticLine should deploy a single statistic.
 -1.11: Display in an HTML table. The final product should look the file: FSO_uniCafe_FinalResult_ScreenShot.png. This is a screen shot for the FullStackOpen Website.
 
-My final product can be seen at: https://laughing-brahmagupta-8b5ed7.netlify.app/
+My final product can be seen at: https://danielfullstackopenunicafe.netlify.app
 I used Netlify to host the front end of this exercise.
